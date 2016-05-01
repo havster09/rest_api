@@ -1,0 +1,18 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "MD5": "~1.2.1",
+    "basic-auth": "^1.0.3",
+    "body-parser": "~1.12.0",
+    "express": "~4.12.2",
+    "mysql": "~2.5.5"
+  }
+}
